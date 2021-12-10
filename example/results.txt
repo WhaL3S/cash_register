@@ -1,0 +1,37 @@
+Initial data
+
+Number of cash registers: 6
+Number of days: 7
+
+Number of served customers
+   5   9   8   7   3   5   6
+   6   9   8   2   1   5   2
+   8   9   0   8   8   8   8
+   4   5   6   2   3   4   3
+   5   6   9   1   0   5   8
+   3   4   5   4   6   5   7
+
+Results
+
+Total number of customers served is: 220.
+
+Average customer served by cash register 1 is 6.1
+Cash register 1 did not work for 0 days
+
+Average customer served by cash register 2 is 4.7
+Cash register 2 did not work for 0 days
+
+Average customer served by cash register 3 is 7.0
+Cash register 3 did not work for 1 days
+
+Average customer served by cash register 4 is 3.9
+Cash register 4 did not work for 0 days
+
+Average customer served by cash register 5 is 4.9
+Cash register 5 did not work for 1 days
+
+Average customer served by cash register 6 is 4.9
+Cash register 6 did not work for 0 days
+
+The day with minimum number of customers served is 5
+In that day, 21 number of customers were served
